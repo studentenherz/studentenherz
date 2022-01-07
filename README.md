@@ -21,3 +21,10 @@
 <p style="margin-top:-0.4em">(yes I know, HTML / CSS are not "actual" programming languages)</p>
 
 On the personal side I like singing 🎤 and playing guitar 🎸 (I'm not very good at it tho'). I also like video games 🎮, my all-time favorite is <a href="https://www.klei.com/games/dont-starve">Don't Starve</a>.
+
+---
+
+<h4 align="center"> A little advertising </h4>
+My telegram bots are hosted using Digital Ocean and I've liked the service so far. If you want to try it you could use my refrral badge below and you'll get $100 in credit for 60 days to test out the services they offer. If you like it, once you have spent $25 with them I'll get $25 in credits, wich translate into 5 months of the basic Droplet that I use to keep my bots up.
+<br><br>
+<a href="https://www.digitalocean.com/?refcode=d9bfb592486e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
