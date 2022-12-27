@@ -4,9 +4,7 @@
 <br><br>
 
 
-<p>I'm currently doing a master's degree in physics, on the behavior of fast particles within nuclear fusion reactors such as <a href="https://www.iter.org/">ITER</a>. The project has a large computational component since we solve the motion of the particles given by the physical equations in order to understand what happens inside the reactor under different conditions. </p>
-
-<p>I also <span style="font-size: 1.3em; color:#cf4e66"> love </span> programming as a hobby. Most of my programming projects come from finding something that I like and I wonder if I could do it too. This is how I got involved with web development and Telegram Bots.</p>
+<p>I <span style="font-size: 1.3em; color:#cf4e66"> love </span> programming as a hobby. Most of my programming projects come from finding something that I like and I wonder if I could do it too. This is how I got involved with web development and Telegram Bots.</p>
 
 <p>Some of the programming languages that I have the most experience with are </p>
 
