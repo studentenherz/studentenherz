@@ -1,10 +1,8 @@
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Michel</h2><br>
-<h3 align="center">Todos recojan los chelines, ¡que es bajanda!</h3>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Michel</h2>
 
-<br><br>
+<p>I'm a full-stack developer with a backend focus. I hold a Master of Science degree in Physics; my thesis project was FOCUS, a simulation software designed for fast particles within tokamak fusion reactors.</p>
 
-
-<p>I <span style="font-size: 1.3em; color:#cf4e66"> love </span> programming as a hobby. Most of my programming projects come from finding something that I like and I wonder if I could do it too. This is how I got involved with web development and Telegram Bots.</p>
+<p>Here you can also find personal projects because I'm passionate about programming and like doing little coding experiments. </p>
 
 <p>Some of the programming languages and technologies that I have the most experience with are </p>
 
